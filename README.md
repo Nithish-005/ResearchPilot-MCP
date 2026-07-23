@@ -1,1 +1,1 @@
-# ResearchPilot-MCP-
+# ResearchPilot-MCP
