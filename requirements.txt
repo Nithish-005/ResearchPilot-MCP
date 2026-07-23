@@ -1,0 +1,11 @@
+# Core MCP Server
+fastmcp>=0.4.0
+
+# PDF Processing
+pymupdf>=1.23.0
+
+# Development
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+ruff>=0.1.0
+mypy>=1.7.0
